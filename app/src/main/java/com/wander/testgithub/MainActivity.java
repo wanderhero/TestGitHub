@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
-        System.out.println("test wander");
+        System.out.println("test www");
     }
 
     @OnClick({R.id.img1, R.id.img2})
